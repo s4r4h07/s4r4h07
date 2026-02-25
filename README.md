@@ -2,8 +2,8 @@
 ## Hi I'm Sarah (pronounced saa-raa) 👋
 
 - 🔭 I’m currently working on a bunch of fun side projects to learn 
-- 🌱 I’m currently learning about coding and cybersecurity to move into and grow in a different career field
-- 🤔 I would love any constructive critcism to help me understand what I am doing right and wrong
+- 🌱 I’m currently lfocused on AI systems development and cybersecurity fundamentals
+- 🤔 Always refining my skills and building better systems
 - ❤️ I love writing, cooking, gaming, and learning random new things
 - ⚡ Fun fact: I've had 30+ bunnies
 
