@@ -9,3 +9,5 @@
 - ❤️ I love writing, cooking, gaming, and learning random new things
 - ⚡ Fun fact: I've had 30+ bunnies
 
+ github-readme-stats.vercel.app
+ &theme=midnight
